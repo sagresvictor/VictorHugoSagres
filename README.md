@@ -14,8 +14,8 @@
 
 ### 📈 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagresvictor&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagresvictor&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagresvictor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagresvictor&layout=compact&theme=tokyonight&hide_langs_below=1" height="150" alt="languages graph" />
 </p>
 
 ---
