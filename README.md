@@ -12,11 +12,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📈 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=sagresvictor&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=sagresvictor&layout=compact&theme=tokyonight)
-
 ---
 📫 **Como me encontrar:**
 [www.linkedin.com/in/victor-hugo-sagres] | [sagresvictor@gmail.com]
